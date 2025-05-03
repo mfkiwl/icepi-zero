@@ -7240,6 +7240,28 @@
 			)
 		)
 	)
+	(global_label "D2+"
+		(shape input)
+		(at 416.56 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "78aef2a4-41b5-4d67-a1d4-41fd93899cc1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 409.5229 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D2"
 		(shape input)
 		(at 416.56 26.67 180)
@@ -7297,6 +7319,28 @@
 		(uuid "923cf06e-cd14-44d3-a431-e6f9215db6cd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 349.0467 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D3-"
+		(shape input)
+		(at 416.56 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98e39f0f-b483-4c6d-b5e4-faa24147b09a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 409.5229 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7561,6 +7605,50 @@
 		(uuid "dbe55b8c-4a6d-4fb4-b263-343f67044816")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 348.8653 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D2-"
+		(shape input)
+		(at 416.56 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "df4f0d52-a995-4479-ae2e-4c8c83370cc1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 409.5229 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D3+"
+		(shape input)
+		(at 416.56 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e0bd78ca-eff9-49ae-9a89-f4c395dcabcd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 409.5229 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)

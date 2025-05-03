@@ -5648,26 +5648,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 99.06) (xy 142.24 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d013d57a-bb7c-4e23-ab3d-428601973c39")
-	)
-	(wire
-		(pts
-			(xy 140.97 96.52) (xy 142.24 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da284589-1c0c-47d9-b98e-713ef6faf72a")
-	)
-	(wire
-		(pts
 			(xy 140.97 66.04) (xy 142.24 66.04)
 		)
 		(stroke
@@ -5695,28 +5675,6 @@
 			(type default)
 		)
 		(uuid "e24a0576-c419-493f-9334-c7720a670c4f")
-	)
-	(global_label "FPDI_CLK-"
-		(shape input)
-		(at 140.97 99.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "022f86f2-09c6-44eb-9be5-30e35f828c06")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.6433 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "FLASH_CLK"
 		(shape input)
@@ -6083,28 +6041,6 @@
 		(uuid "ed43347d-6407-4e32-a593-8af5fa513bfe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 127.7038 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "FPDI_CLK+"
-		(shape input)
-		(at 140.97 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f83acbd9-93f9-4c78-aa0c-488555e85cbb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.6433 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
