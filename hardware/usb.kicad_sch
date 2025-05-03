@@ -10134,6 +10134,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25905 "
+			(at 54.61 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eaa011be-30fd-4af4-9d74-f8c5f807c2fb")
 		)
@@ -10275,6 +10284,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2286 "
+			(at 107.95 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -10469,6 +10486,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 99.06 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25076 "
 			(at 99.06 86.36 0)
 			(effects
 				(font
@@ -10752,6 +10778,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 62.23 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25905 "
 			(at 62.23 31.75 0)
 			(effects
 				(font
@@ -11171,6 +11206,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25905 "
+			(at 54.61 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25cb5f88-a1bb-4307-925b-004944cb7c44")
 		)
@@ -11230,6 +11274,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25905 "
 			(at 55.88 100.33 0)
 			(effects
 				(font
@@ -11305,6 +11358,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25905 "
+			(at 55.88 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "202eb558-a70d-4401-ad19-c3249efe05f1")
 		)
@@ -11364,6 +11426,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 62.23 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25905 "
 			(at 62.23 29.21 0)
 			(effects
 				(font
