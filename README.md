@@ -1,6 +1,6 @@
-# Icepi Zero
+# Icepi Zero - The portable FPGA development board. 
 
-An economical open-source Lattice ECP5 development board with a Raspberry Pi Zero footprint.
+Icepi Zero is an economical FPGA development board with a Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F enabling powerful designs while keeping a small form factor.
 
 [See project online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware)
 
@@ -8,25 +8,22 @@ An economical open-source Lattice ECP5 development board with a Raspberry Pi Zer
 
 ## Features
 
-- Lattice FPGA ECP5U (LFE5U-25F-6BG256C), 24k LUT FPGA
-- MicroGDPI connector (it's HDM- but I don't have the money to buy a license...)
-- 3x USB-C Ports
-- 256MiB External + 1MiB embedded Memory
-- MicroSD Card Reader
-- Raspberry Pi Zero Foorprint (28 GPIO Ports)
-- 4x Indicator LEDs
-- On-board USB to JTAG and UART
-- 100MHz external oscillator
+- Raspberry Pi Zero form factor
+- Lattice ECP5U FPGA:
+    - 24k LUT
+    - 112 KiB RAM
+- One MicroGDPI connector (it's HDM- but I don't have the money to buy a license...)
+- Three USB-C Ports
+- 256MiB external 166MHz SDRAM
+- MicroSD card slot
+- Four user LEDs
+- On-board USB to JTAG and UART converter
+- 40MHz external oscillator
+- 128 Mbit flash
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4c0861d350addacafd7bc4966b30fc04cd840f32_image.png)
 
-## Pinout
+## Contact
 
-Pinout documentation to come :)
-
-## Firmware
-
-Check out the `firmware` folder!
-
-If there is any questions DM `@Cyao` on slack or `cyao.` on Discord.
+If there is any questions DM `@Cyao` on Hackclub Slack or `cyao.` on Discord. Mail is also accepted at `cyao _at_ duck.com`.
 

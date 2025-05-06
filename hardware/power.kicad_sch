@@ -6568,7 +6568,37 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "100MHz Clock"
+	(text "(15/4.7+1)*0.6=2.5"
+		(exclude_from_sim no)
+		(at 75.184 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2e834563-5133-48d4-b853-d8f51ced0ea8")
+	)
+	(text "(10/12+1)*0.6=1.1"
+		(exclude_from_sim no)
+		(at 74.93 17.272 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3299556d-a77d-4edd-8ed3-8f252a3f75de")
+	)
+	(text "(15/3.3+1)*0.6=2.5"
+		(exclude_from_sim no)
+		(at 71.628 85.852 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8c347882-8919-441e-838d-224f48ceeb0d")
+	)
+	(text "40MHz Clock"
 		(exclude_from_sim no)
 		(at 43.688 140.97 0)
 		(effects
@@ -6661,6 +6691,12 @@
 		(uuid "479999ee-ddb0-4495-8375-59f1ece46b32")
 	)
 	(junction
+		(at 74.93 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "518ff9d3-de49-4ac2-a064-28aa9a8593d4")
+	)
+	(junction
 		(at 179.07 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6739,6 +6775,12 @@
 		(uuid "9e66b14f-eb65-4fed-9825-8949eec229df")
 	)
 	(junction
+		(at 63.5 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a11fd239-ad48-4ae4-af7f-d8d04d888fa3")
+	)
+	(junction
 		(at 124.46 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6773,6 +6815,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5e29efb-0d0c-4b51-a7c0-2cb35c96265b")
+	)
+	(junction
+		(at 76.2 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9d44220-d89c-4333-a00a-5278a002bd1d")
+	)
+	(junction
+		(at 63.5 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bff57d29-b672-4e96-b7da-bb6083c7f37c")
 	)
 	(junction
 		(at 24.13 96.52)
@@ -7220,6 +7274,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 96.52) (xy 63.5 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c174c14-f294-4499-a728-fbcf74e0aefa")
+	)
+	(wire
+		(pts
 			(xy 124.46 52.07) (xy 124.46 53.34)
 		)
 		(stroke
@@ -7227,6 +7291,16 @@
 			(type default)
 		)
 		(uuid "4c301ef1-ab35-403e-a517-b470533d11c7")
+	)
+	(wire
+		(pts
+			(xy 74.93 38.1) (xy 87.63 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d0da9ad-59d3-4368-928c-56c59ed82b6f")
 	)
 	(wire
 		(pts
@@ -7340,7 +7414,17 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 60.96) (xy 63.5 62.23)
+			(xy 63.5 71.12) (xy 76.2 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60dc2b5e-b27e-47e1-8e07-5ed70569c99a")
+	)
+	(wire
+		(pts
+			(xy 76.2 60.96) (xy 76.2 62.23)
 		)
 		(stroke
 			(width 0)
@@ -7437,6 +7521,16 @@
 			(type default)
 		)
 		(uuid "6eb38ae5-43b3-4ae5-aee9-d7994fb8fa7b")
+	)
+	(wire
+		(pts
+			(xy 76.2 62.23) (xy 63.5 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71fcaed9-1964-4f03-ac29-1619ce7d0758")
 	)
 	(wire
 		(pts
@@ -7577,6 +7671,16 @@
 			(type default)
 		)
 		(uuid "83785ebf-ca59-4af7-8c33-2ffdf66026a4")
+	)
+	(wire
+		(pts
+			(xy 87.63 29.21) (xy 87.63 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "866a8dfd-7b46-45d8-88ab-b5b8198bc182")
 	)
 	(wire
 		(pts
@@ -8060,6 +8164,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 29.21) (xy 74.93 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e533f2b6-8f46-410e-9825-752bd99e40fb")
+	)
+	(wire
+		(pts
 			(xy 209.55 78.74) (xy 209.55 80.01)
 		)
 		(stroke
@@ -8087,6 +8201,16 @@
 			(type default)
 		)
 		(uuid "e8d21cf4-2360-4d3a-a883-8f2c2b149f30")
+	)
+	(wire
+		(pts
+			(xy 76.2 62.23) (xy 76.2 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecc01287-d94f-40b2-ab09-1584ab8e254d")
 	)
 	(wire
 		(pts
@@ -8140,6 +8264,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 105.41) (xy 76.2 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f11b427d-75e3-4f25-be96-b7720ee56860")
+	)
+	(wire
+		(pts
 			(xy 170.18 71.12) (xy 177.8 71.12)
 		)
 		(stroke
@@ -8167,6 +8301,16 @@
 			(type default)
 		)
 		(uuid "f5736685-034a-4232-99f1-93fba77ad7c8")
+	)
+	(wire
+		(pts
+			(xy 76.2 96.52) (xy 76.2 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f82cbf5c-2123-43fc-bb4c-f42e98b63a05")
 	)
 	(wire
 		(pts
@@ -8298,6 +8442,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 76.2 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c1fc068-8854-4abe-af80-21ad516f5935")
+		(property "Reference" "C51"
+			(at 80.01 66.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 80.01 68.5799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 77.1652 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 76.2 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 76.2 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331 "
+			(at 76.2 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29e023f2-23ad-44df-ae83-ac3562d35296")
+		)
+		(pin "2"
+			(uuid "670973a3-3a26-4611-94ae-27de075a9eba")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "C51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 54.61 44.45 0)
 		(unit 1)
@@ -8316,7 +8539,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "12k"
 			(at 57.15 45.7199 0)
 			(effects
 				(font
@@ -8352,7 +8575,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25762 "
+		(property "JLCPCB Part #" "C25752"
 			(at 54.61 44.45 0)
 			(effects
 				(font
@@ -8457,7 +8680,7 @@
 	)
 	(symbol
 		(lib_id "power:+2V5")
-		(at 63.5 60.96 0)
+		(at 76.2 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8466,7 +8689,7 @@
 		(fields_autoplaced yes)
 		(uuid "137a929f-42bd-4d86-9262-e597dff130ba")
 		(property "Reference" "#PWR021"
-			(at 63.5 64.77 0)
+			(at 76.2 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8475,7 +8698,7 @@
 			)
 		)
 		(property "Value" "+2V5"
-			(at 63.5 55.88 0)
+			(at 76.2 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8483,7 +8706,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 60.96 0)
+			(at 76.2 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8492,7 +8715,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 60.96 0)
+			(at 76.2 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8501,7 +8724,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 63.5 60.96 0)
+			(at 76.2 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8784,7 +9007,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15k"
+		(property "Value" "10k"
 			(at 57.15 35.5599 0)
 			(effects
 				(font
@@ -8820,7 +9043,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25756 "
+		(property "JLCPCB Part #" "C25744"
 			(at 54.61 34.29 0)
 			(effects
 				(font
@@ -9041,7 +9264,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C17281729"
+		(property "JLCPCB Part #" "C437147"
 			(at 43.18 158.75 0)
 			(effects
 				(font
@@ -9578,7 +9801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "3.3k"
 			(at 57.15 113.0299 0)
 			(effects
 				(font
@@ -9614,7 +9837,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25762 "
+		(property "JLCPCB Part #" "C25890 "
 			(at 54.61 111.76 0)
 			(effects
 				(font
@@ -10482,6 +10705,85 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 87.63 34.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "83ead0e7-01ad-46bb-842d-66c79d68664b")
+		(property "Reference" "C50"
+			(at 91.44 33.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 91.44 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 88.5952 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.63 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 87.63 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331 "
+			(at 87.63 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e6e9027b-6452-4c02-94d9-7269df2e9497")
+		)
+		(pin "2"
+			(uuid "96549c7a-f7a7-4eaf-b5a1-94e882dbe4bf")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -12947,6 +13249,85 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 76.2 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e92664a0-4c7d-4cbf-a7c9-ffc68c2a465f")
+		(property "Reference" "C52"
+			(at 80.01 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 80.01 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 77.1652 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 76.2 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 76.2 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331 "
+			(at 76.2 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78c0b4b9-4958-451b-8ad2-d88699ddfaf5")
+		)
+		(pin "2"
+			(uuid "76ff3bec-2e2d-46c5-a14c-7c69cf39c57b")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "C52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 24.13 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13042,7 +13423,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "4.7k"
 			(at 57.15 78.7399 0)
 			(effects
 				(font
@@ -13078,7 +13459,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25762 "
+		(property "JLCPCB Part #" "C25900 "
 			(at 54.61 77.47 0)
 			(effects
 				(font

@@ -8785,7 +8785,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C25117 "
+		(property "JLCPCB Part #" "C25117"
 			(at 184.15 109.22 0)
 			(effects
 				(font
@@ -9160,7 +9160,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C25117 "
+		(property "JLCPCB Part #" "C25117"
 			(at 184.15 93.98 0)
 			(effects
 				(font
