@@ -8437,6 +8437,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Part #" "C1546 "
@@ -9499,7 +9500,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "73dfb5fd-ef31-4049-a54b-60400cd8096e")
 		(property "Reference" "U3"
 			(at 104.14 97.7899 0)
