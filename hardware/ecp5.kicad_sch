@@ -6470,6 +6470,28 @@
 			)
 		)
 	)
+	(global_label "SW1"
+		(shape input)
+		(at 38.1 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9bc39a00-7f16-490c-8492-e05ccc150aec")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.2444 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CKE"
 		(shape input)
 		(at 38.1 48.26 180)
