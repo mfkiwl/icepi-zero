@@ -37,8 +37,8 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.65,
-          "height": 1.8,
+          "drill": 0.0,
+          "height": 0.3,
           "width": 1.25
         },
         "silk_line_width": 0.1,
@@ -592,8 +592,8 @@
         },
         {
           "group_by": false,
-          "label": "JLCPCB Part #",
-          "name": "JLCPCB Part #",
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
           "show": true
         },
         {

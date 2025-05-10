@@ -9017,13 +9017,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2290"
+		(property "LCSC Part #" "C2290"
 			(at 217.17 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9094,13 +9093,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25117"
+		(property "LCSC Part #" "C25117"
 			(at 208.28 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9238,13 +9236,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25117"
+		(property "LCSC Part #" "C25117"
 			(at 208.28 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9382,13 +9379,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25117"
+		(property "LCSC Part #" "C25117"
 			(at 208.28 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9534,13 +9530,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2290"
+		(property "LCSC Part #" "C2290"
 			(at 217.17 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9605,15 +9600,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 118.11 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" ""
 			(at 118.11 48.26 0)
 			(effects
 				(font
@@ -9818,15 +9804,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" ""
-			(at 134.62 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "23"
 			(uuid "89a4db54-922f-4afc-bad2-32e95861b98a")
 		)
@@ -10003,15 +9980,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 163.83 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" ""
 			(at 163.83 48.26 0)
 			(effects
 				(font
@@ -10215,13 +10183,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25117"
+		(property "LCSC Part #" "C25117"
 			(at 208.28 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10358,13 +10325,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25117"
+		(property "LCSC Part #" "C25117"
 			(at 208.28 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10641,15 +10607,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" ""
-			(at 142.24 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
@@ -10706,15 +10663,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 95.25 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" ""
 			(at 95.25 48.26 0)
 			(effects
 				(font
@@ -10794,13 +10742,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2290"
+		(property "LCSC Part #" "C2290"
 			(at 217.17 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11139,13 +11086,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C1521614"
+		(property "LCSC Part #" "C1521614"
 			(at 71.12 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "D8"
@@ -12178,13 +12124,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C307331 "
+		(property "LCSC Part #" "C307331 "
 			(at 36.83 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12330,13 +12275,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2290"
+		(property "LCSC Part #" "C2290"
 			(at 217.17 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12416,13 +12360,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2290"
+		(property "LCSC Part #" "C2290"
 			(at 217.17 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12892,7 +12835,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C318884"
+		(property "LCSC Part #" "C318884"
 			(at 134.62 176.53 0)
 			(effects
 				(font

@@ -7276,7 +7276,7 @@
 		(uuid "b6ef3714-e07b-4509-97dd-32b23259e794")
 	)
 	(junction
-		(at 220.98 57.15)
+		(at 229.87 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bdb54921-a429-47df-ab44-e55f8b388490")
@@ -7295,7 +7295,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 66.04) (xy 215.9 67.31)
+			(xy 224.79 76.2) (xy 224.79 77.47)
 		)
 		(stroke
 			(width 0)
@@ -7405,7 +7405,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 66.04) (xy 231.14 67.31)
+			(xy 240.03 76.2) (xy 240.03 77.47)
 		)
 		(stroke
 			(width 0)
@@ -7455,7 +7455,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 57.15) (xy 231.14 58.42)
+			(xy 240.03 67.31) (xy 240.03 68.58)
 		)
 		(stroke
 			(width 0)
@@ -7495,7 +7495,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 57.15) (xy 226.06 58.42)
+			(xy 234.95 67.31) (xy 234.95 68.58)
 		)
 		(stroke
 			(width 0)
@@ -7515,7 +7515,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 57.15) (xy 215.9 58.42)
+			(xy 224.79 67.31) (xy 224.79 68.58)
 		)
 		(stroke
 			(width 0)
@@ -7545,7 +7545,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 57.15) (xy 215.9 57.15)
+			(xy 229.87 67.31) (xy 224.79 67.31)
 		)
 		(stroke
 			(width 0)
@@ -7795,7 +7795,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 57.15) (xy 220.98 58.42)
+			(xy 229.87 67.31) (xy 229.87 68.58)
 		)
 		(stroke
 			(width 0)
@@ -7865,7 +7865,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 55.88) (xy 220.98 57.15)
+			(xy 229.87 66.04) (xy 229.87 67.31)
 		)
 		(stroke
 			(width 0)
@@ -8045,7 +8045,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 66.04) (xy 220.98 67.31)
+			(xy 229.87 76.2) (xy 229.87 77.47)
 		)
 		(stroke
 			(width 0)
@@ -8165,7 +8165,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 57.15) (xy 226.06 57.15)
+			(xy 229.87 67.31) (xy 234.95 67.31)
 		)
 		(stroke
 			(width 0)
@@ -8275,7 +8275,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 66.04) (xy 226.06 67.31)
+			(xy 234.95 76.2) (xy 234.95 77.47)
 		)
 		(stroke
 			(width 0)
@@ -8567,7 +8567,7 @@
 	)
 	(global_label "JTAG_TMS"
 		(shape input)
-		(at 231.14 57.15 90)
+		(at 240.03 67.31 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8577,7 +8577,7 @@
 		)
 		(uuid "4fa02609-3b28-49ec-82e0-936a0823ef45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.14 45.2749 90)
+			(at 240.03 55.4349 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8655,7 +8655,7 @@
 	)
 	(global_label "JTAG_TCK"
 		(shape input)
-		(at 215.9 67.31 270)
+		(at 224.79 77.47 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8665,7 +8665,7 @@
 		)
 		(uuid "72cadba9-5ff4-4e6b-afe0-adbebd2dc184")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.9 79.0642 90)
+			(at 224.79 89.2242 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8699,7 +8699,7 @@
 	)
 	(global_label "JTAG_TDI"
 		(shape input)
-		(at 220.98 67.31 270)
+		(at 229.87 77.47 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8709,7 +8709,7 @@
 		)
 		(uuid "7c8a6fb6-1d34-4aa6-a6bb-ed7b4fbbd042")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.98 78.399 90)
+			(at 229.87 88.559 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8941,7 +8941,7 @@
 	)
 	(global_label "JTAG_TDO"
 		(shape input)
-		(at 226.06 67.31 270)
+		(at 234.95 77.47 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8951,7 +8951,7 @@
 		)
 		(uuid "ddcd07cd-a76a-4de5-9a10-28371c7fd70a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 226.06 79.1247 90)
+			(at 234.95 89.2847 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9150,13 +9150,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C1521614"
+		(property "LCSC Part #" "C1521614"
 			(at 189.23 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "D8"
@@ -9989,13 +9988,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2765186"
+		(property "LCSC Part #" "C2765186"
 			(at 181.61 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "A5"
@@ -10105,13 +10103,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C3011197"
+		(property "LCSC Part #" "C3011197"
 			(at 78.74 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10515,13 +10512,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2765186"
+		(property "LCSC Part #" "C2765186"
 			(at 46.99 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "A5"
@@ -10696,13 +10692,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25905 "
+		(property "LCSC Part #" "C25905 "
 			(at 203.2 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10722,7 +10717,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 226.06 62.23 0)
+		(at 234.95 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10730,7 +10725,7 @@
 		(dnp no)
 		(uuid "3fddca17-44e3-46e0-81cf-8520e9df7a69")
 		(property "Reference" "R37"
-			(at 223.52 64.262 90)
+			(at 232.41 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10739,7 +10734,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 226.06 64.262 90)
+			(at 234.95 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10748,7 +10743,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 224.282 62.23 90)
+			(at 233.172 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10757,7 +10752,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 62.23 0)
+			(at 234.95 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10766,7 +10761,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 226.06 62.23 0)
+			(at 234.95 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10774,13 +10769,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25900 "
-			(at 226.06 62.23 0)
+		(property "LCSC Part #" "C25900 "
+			(at 234.95 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10852,13 +10846,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C307331 "
+		(property "LCSC Part #" "C307331 "
 			(at 96.52 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10878,7 +10871,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 220.98 62.23 0)
+		(at 229.87 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10886,7 +10879,7 @@
 		(dnp no)
 		(uuid "4730c23f-fbda-469d-9bf4-eb003d6dcd3a")
 		(property "Reference" "R36"
-			(at 218.44 64.262 90)
+			(at 227.33 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10895,7 +10888,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 220.98 64.262 90)
+			(at 229.87 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10904,7 +10897,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 219.202 62.23 90)
+			(at 228.092 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10913,7 +10906,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 220.98 62.23 0)
+			(at 229.87 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10922,7 +10915,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 220.98 62.23 0)
+			(at 229.87 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10930,13 +10923,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25900 "
-			(at 220.98 62.23 0)
+		(property "LCSC Part #" "C25900 "
+			(at 229.87 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11214,13 +11206,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2286 "
+		(property "LCSC Part #" "C2286 "
 			(at 123.19 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -11423,13 +11414,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25076 "
+		(property "LCSC Part #" "C25076 "
 			(at 114.3 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -11502,13 +11492,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C132159"
+		(property "LCSC Part #" "C132159"
 			(at 119.38 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "14"
@@ -11636,13 +11625,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C3011197"
+		(property "LCSC Part #" "C3011197"
 			(at 95.25 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -11715,13 +11703,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25905 "
+		(property "LCSC Part #" "C25905 "
 			(at 77.47 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11741,7 +11728,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 231.14 62.23 0)
+		(at 240.03 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11749,7 +11736,7 @@
 		(dnp no)
 		(uuid "77af4fd9-c140-4d78-93ce-44547f195e0f")
 		(property "Reference" "R38"
-			(at 228.6 64.262 90)
+			(at 237.49 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,7 +11745,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 231.14 64.262 90)
+			(at 240.03 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11767,7 +11754,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 229.362 62.23 90)
+			(at 238.252 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11776,7 +11763,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 231.14 62.23 0)
+			(at 240.03 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11785,7 +11772,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 231.14 62.23 0)
+			(at 240.03 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11793,13 +11780,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25900 "
-			(at 231.14 62.23 0)
+		(property "LCSC Part #" "C25900 "
+			(at 240.03 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11885,7 +11871,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 231.14 67.31 0)
+		(at 240.03 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11894,7 +11880,7 @@
 		(fields_autoplaced yes)
 		(uuid "8ae51ebf-994e-4e4d-a67d-595829ec8361")
 		(property "Reference" "#PWR099"
-			(at 231.14 73.66 0)
+			(at 240.03 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11903,7 +11889,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 231.14 72.39 0)
+			(at 240.03 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11911,7 +11897,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.14 67.31 0)
+			(at 240.03 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11920,7 +11906,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 67.31 0)
+			(at 240.03 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11929,7 +11915,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 231.14 67.31 0)
+			(at 240.03 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12200,13 +12186,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C3011197"
+		(property "LCSC Part #" "C3011197"
 			(at 229.87 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -12279,13 +12264,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25905 "
+		(property "LCSC Part #" "C25905 "
 			(at 203.2 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12305,7 +12289,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 215.9 62.23 0)
+		(at 224.79 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12313,7 +12297,7 @@
 		(dnp no)
 		(uuid "aeecc024-bec3-4efb-8f4c-7054bf7fe8b7")
 		(property "Reference" "R35"
-			(at 213.36 64.262 90)
+			(at 222.25 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12322,7 +12306,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 215.9 64.262 90)
+			(at 224.79 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12331,7 +12315,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 214.122 62.23 90)
+			(at 223.012 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12340,7 +12324,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 62.23 0)
+			(at 224.79 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12349,7 +12333,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 215.9 62.23 0)
+			(at 224.79 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12357,13 +12341,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25900 "
-			(at 215.9 62.23 0)
+		(property "LCSC Part #" "C25900 "
+			(at 224.79 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12499,13 +12482,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25905 "
+		(property "LCSC Part #" "C25905 "
 			(at 71.12 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12575,13 +12557,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25905 "
+		(property "LCSC Part #" "C25905 "
 			(at 71.12 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12601,7 +12582,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 220.98 55.88 0)
+		(at 229.87 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12610,7 +12591,7 @@
 		(fields_autoplaced yes)
 		(uuid "ddc8e26a-14e7-407e-999e-d717a831b7fb")
 		(property "Reference" "#PWR058"
-			(at 220.98 59.69 0)
+			(at 229.87 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12619,7 +12600,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 220.98 50.8 0)
+			(at 229.87 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12627,7 +12608,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 220.98 55.88 0)
+			(at 229.87 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12636,7 +12617,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 55.88 0)
+			(at 229.87 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12645,7 +12626,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 220.98 55.88 0)
+			(at 229.87 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12717,13 +12698,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25905 "
+		(property "LCSC Part #" "C25905 "
 			(at 77.47 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12794,13 +12774,12 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2765186"
+		(property "LCSC Part #" "C2765186"
 			(at 46.99 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "A5"
