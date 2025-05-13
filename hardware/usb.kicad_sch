@@ -10534,7 +10534,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "16d36fdd-558f-46bb-8f19-ce9abf1f2657")
 		(property "Reference" "TP10"
@@ -12220,7 +12220,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "890e3f66-8bc6-4926-95e5-147bb6d1f540")
 		(property "Reference" "TP11"
@@ -12551,7 +12551,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a91f20fa-07f1-47c3-acd2-4ca5309e8c36")
 		(property "Reference" "TP12"
@@ -12698,7 +12698,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ade0c7bc-2217-4667-aec8-3faf423a5454")
 		(property "Reference" "TP9"
