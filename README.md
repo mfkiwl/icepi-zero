@@ -28,7 +28,7 @@ Icepi Zero also has an on-board USB to JTAG converter, so no external programmer
 - Lattice ECP5U FPGA:
     - 24k LUT
     - 112 KiB of RAM
-- One MicroGDPI connector (it's HDM- but I don't have the money to buy a license...)
+- One MicroGPDI connector (it's HDM- but I don't have the money to buy a license...)
 - Three USB-C Ports
 - 256MiB 166MHz SDRAM
 - MicroSD card slot
