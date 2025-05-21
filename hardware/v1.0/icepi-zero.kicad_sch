@@ -7905,7 +7905,7 @@
 			)
 		)
 	)
-	(global_label "FPDI_SDA"
+	(global_label "GPDI_SDA"
 		(shape input)
 		(at 49.53 163.83 180)
 		(effects
@@ -8015,7 +8015,7 @@
 			)
 		)
 	)
-	(global_label "FPDI_CEC"
+	(global_label "GPDI_CEC"
 		(shape input)
 		(at 49.53 161.29 180)
 		(effects
@@ -8477,7 +8477,7 @@
 			)
 		)
 	)
-	(global_label "FPDI_UTIL"
+	(global_label "GPDI_UTIL"
 		(shape input)
 		(at 49.53 179.07 180)
 		(effects
@@ -8587,7 +8587,7 @@
 			)
 		)
 	)
-	(global_label "FPDI_SCL"
+	(global_label "GPDI_SCL"
 		(shape input)
 		(at 49.53 158.75 180)
 		(effects
