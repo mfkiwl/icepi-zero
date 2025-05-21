@@ -6598,7 +6598,7 @@
 		)
 		(uuid "8c347882-8919-441e-838d-224f48ceeb0d")
 	)
-	(text "40MHz Clock"
+	(text "50MHz Clock"
 		(exclude_from_sim no)
 		(at 43.688 140.97 0)
 		(effects
