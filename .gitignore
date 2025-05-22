@@ -10,3 +10,7 @@ fp-info-cache
 *-rescue.lib
 *bom*.txt
 *.kicad_prl
+
+*.bit
+*.config
+*.json
