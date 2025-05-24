@@ -1,4 +1,6 @@
 #!/bin/bash
+rm counter.bit counter.config counter.json
+
 yosys -p 'synth_ecp5 -top counter -json counter.json' counter.sv
 nextpnr-ecp5 --25k --package CABGA256 --lpf icepi-zero.lpf --json counter.json --textcfg counter.config
 ecppack counter.config counter.bit
