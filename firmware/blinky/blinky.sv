@@ -1,16 +1,16 @@
-module blinky (
+module top (
 	output logic [4:0] led,
-	input  wire        clock
+	input  wire        clk
 );
 	// Delay (50MHz >> 25 = 1.49011611938Hz = 0.67108864s/blink)
 	logic [24:0] clkb = 0;
-	wire clk = clkb[24];
+	wire clki = clkb[24];
 
 	// Count the clocks
-	always @(posedge clock) clkb <= clkb + 1'b1;
+	always @(posedge clk) clkb <= clkb + 1'b1;
 
 	// Add one to the led register
-	always_ff @(posedge clk) begin
+	always_ff @(posedge clki) begin
 		led <= led + 1;
 	end
 endmodule
