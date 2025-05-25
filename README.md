@@ -4,7 +4,7 @@
 
 Icepi Zero is an economical FPGA development board with a Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a HDMI port allowing easy digital video output.
 
-[See PCB online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware)
+[See PCB online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware%2Fv1.1)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a6690d6e952f533cc95823e3fc1565726f22daf8_image.png)
 
@@ -41,6 +41,10 @@ Icepi Zero also has an on-board USB to JTAG converter, so no external programmer
 This powerful configuration allows the PCB to be used in numerous ways, including real time video processing, hardware AI acceleration and prototyping of ASICs.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4c0861d350addacafd7bc4966b30fc04cd840f32_image.png)
+
+## Usage
+
+Check out the `firmware` folder for example code and compilation instructions!
 
 ## Contact
 

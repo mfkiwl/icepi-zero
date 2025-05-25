@@ -17,4 +17,12 @@ debug: build
 install: build
 	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit --write-flash
 
+help: 
+	echo "Usage: make [option]"
+	echo "Options:"
+	echo "- install: install to flash"
+	echo "- debug: install to chip's temp memory (bitstream lost on power loss)"
+	echo "- build: builds the bitstream"
+	echo "- clean: delete all temparary files"
+
 .PHONY: build clean install
