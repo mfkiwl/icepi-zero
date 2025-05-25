@@ -14,3 +14,5 @@ fp-info-cache
 *.bit
 *.config
 *.json
+
+*.lck

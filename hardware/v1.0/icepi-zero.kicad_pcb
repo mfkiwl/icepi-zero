@@ -11363,6 +11363,7 @@
 		(property "Reference" "Y1"
 			(at 0 -2.26 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "cfb91040-6841-47a5-915e-6efe9cc89813")
 			(effects
 				(font
