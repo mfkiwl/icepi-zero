@@ -1,12 +1,19 @@
-module uart(
-	input clock,
+module top(
+	input        clk,
+	input        usb_tx,
 
-	input usb_rx,
-	output usb_tx,
-
-	output led,
-	input sd_det
+	output       usb_rx,
+	output [2:0] led
 );
-	assign usb_tx = clock;
-	assign led = sd_det;
+	logic       finish;
+	logic [7:0] data;
+
+	uart_tx TX (clk, finish, data, usb_rx);
+	uart_rx RX (clk, usb_tx, finish, data);
+
+	// Indicator leds
+	assign led[0] = finish;
+	assign led[1] = ~usb_rx;
+	assign led[2] = ~usb_tx;
 endmodule
+

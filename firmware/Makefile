@@ -17,6 +17,9 @@ debug: build
 install: build
 	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit --write-flash
 
+lint:
+	verilator --lint-only -Wall -Wno-DECLFILENAME -Wno-WIDTHEXPAND $(VERILOG_SOURCES)
+
 help: 
 	echo "Usage: make [option]"
 	echo "Options:"
