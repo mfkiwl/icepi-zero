@@ -4,9 +4,9 @@
 
 Icepi Zero is an economical FPGA development board with a Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a HDMI port allowing easy digital video output.
 
-[See PCB online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware%2Fv1.1)
+[View PCB online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware%2Fv1.1)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a6690d6e952f533cc95823e3fc1565726f22daf8_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ec8ed16af61150195ea388c32047b6e1b9825b63_image.png)
 
 ## Why Icepi Zero?
 
@@ -20,7 +20,7 @@ Icepi Zero is for everyone: Students can use it to learn about the internals of 
 
 Icepi Zero also has an on-board USB to JTAG converter, so no external programmers are needed. Moreover Icepi Zero is fully open-source, no strings attached. Fabricate your own boards if you want one!
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8957d7ab454fed98621e6fb0ed743ed698589ade_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a6690d6e952f533cc95823e3fc1565726f22daf8_image.png)
 
 ## Features
 
@@ -50,3 +50,4 @@ Check out the `firmware` folder for example code and compilation instructions!
 
 If there is any questions DM `@Cyao` on Hackclub Slack or `cyao.` on Discord. Mail is also accepted at `cyao _at_ duck.com`.
 
+Thanks Hackclub for sponsering this! Check out [highway & undercity, a hackathon at Github HQ](https://highway.hackclub.com/?ref=recg6V5Pj0JbZghRM)
