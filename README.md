@@ -1,5 +1,7 @@
 # Icepi Zero - The portable FPGA development board. 
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4ac9bc89ca5d03659a976cc16263262f6c34a002_16.png)
+
 ## What is the Icepi Zero?
 
 Icepi Zero is an economical FPGA development board with a Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a HDMI port allowing easy digital video output.
